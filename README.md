@@ -29,7 +29,7 @@ To increase sales they introduced 5 different promotions
 ### Insights
 1. Store Performance Analysis
 
-   <img src="images/Screenshot_d.png" width="50%" height="50%"/>
+   <img src="images/Screenshot_d.png" width="500" height="50%"/>
 2. Promotion Analysis
 
    <img src="images/Screenshot_c.png" width="500" height="50%"/>
